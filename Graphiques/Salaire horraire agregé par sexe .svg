@@ -1,0 +1,159 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="800"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="width: 800px; height: 600px;" contentStyleType="text/css"
+     height="600" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <style type="text/css" xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-subtitle { color: black; fill: black; font-size: 12px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }</style><style type="text/css"
+           xml:space="preserve">.axis path, line { fill: none; stroke: rgb(0, 0, 0); shape-rendering: crispedges; }</style><rect fill="#FFFFFF"
+          width="800" id="bgr" height="600"/>
+    <g id="plotG" transform="translate(28.6875,60)">
+        <rect fill="#FFFFFF" width="761.3125" id="da" height="505"/>
+        <g class="x axis knime-x knime-axis" transform="translate(0,505)">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(211.47569444444443,0)">
+                <line y2="6" fill="none" shape-rendering="crispEdges" x2="0"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="0" dy=".71em" y="9" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    F
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(549.8368055555555,0)">
+                <line y2="6" fill="none" shape-rendering="crispEdges" x2="0"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="0" dy=".71em" y="9" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    H
+                </text>
+            </g>
+            <path fill="none" d="M0,6V0H761.3125V6" shape-rendering="crispEdges"
+                  class="domain knime-axis-line" stroke="black"/>
+        </g>
+        <g class="y axis knime-y knime-axis">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,437.5)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    20
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,312.5)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    40
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,187.5)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    60
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,62.5)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    80
+                </text>
+            </g>
+            <path fill="none" d="M-6,0H0V500H-6" shape-rendering="crispEdges"
+                  class="domain knime-axis-line" stroke="black"/>
+        </g>
+        <text dy=".75em" y="6" class="y axis-label knime-y knime-axis-label"
+              transform="rotate(-90)" text-anchor="end">
+            Salaire horraire
+        </text>
+        <text x="761.3125" y="494" class="x axis-label knime-x knime-axis-label"
+              text-anchor="end">
+            Sexe
+        </text>
+        <g class="box" transform="translate(169.18055555555554,0)">
+            <rect fill="#1f77b4" width="84.59027777777777" height="211.5625"
+                  y="190.625" class="boxrect" stroke="black"/>
+            <text x="-5" y="193.625" class="uqText knime-label"
+                  text-anchor="end">
+                59.5
+            </text>
+            <text x="-5" y="405.1875" class="lqText knime-label"
+                  text-anchor="end">
+                25.65
+            </text>
+            <line x1="0" x2="84.59027777777777" y1="306.75" y2="306.75"
+                  class="median" stroke="black" stroke-width="3"/>
+            <text class="medianText knime-label" x="89.59027777777777"
+                  y="309.75">
+                40.92
+            </text>
+            <line x1="42.295138888888886" x2="42.295138888888886" y1="190.625"
+                  y2="1.8749999999999432" stroke-dasharray="5,5" class="uwL1"
+                  stroke="black"/>
+            <line y2="1.8749999999999432" x1="0" class="uwL2"
+                  x2="84.59027777777777" stroke="black" y1="1.8749999999999432"/>
+            <text class="uwText knime-label" x="89.59027777777777"
+                  y="11.874999999999943">
+                89.7
+            </text>
+            <line x1="42.295138888888886" x2="42.295138888888886" y1="402.1875"
+                  y2="499.375" stroke-dasharray="5,5" class="ulL1"
+                  stroke="black"/>
+            <line y2="499.375" x1="0" class="ulL2" x2="84.59027777777777"
+                  stroke="black" y1="499.375"/>
+            <text class="ulText knime-label" x="89.59027777777777" y="496.375">
+                10.1
+            </text>
+        </g>
+        <g class="box" transform="translate(507.54166666666663,0)">
+            <rect fill="#ff7f0e" width="84.59027777777777" height="240.0625"
+                  y="167.1875" class="boxrect" stroke="black"/>
+            <text x="-5" y="170.1875" class="uqText knime-label"
+                  text-anchor="end">
+                63.25
+            </text>
+            <text x="-5" y="410.25" class="lqText knime-label" text-anchor="end">
+                24.84
+            </text>
+            <line x1="0" x2="84.59027777777777" y1="304.125" y2="304.125"
+                  class="median" stroke="black" stroke-width="3"/>
+            <text class="medianText knime-label" x="89.59027777777777"
+                  y="307.125">
+                41.34
+            </text>
+            <line x1="42.295138888888886" x2="42.295138888888886" y1="167.1875"
+                  y2="9.75" stroke-dasharray="5,5" class="uwL1" stroke="black"/>
+            <line y2="9.75" x1="0" class="uwL2" x2="84.59027777777777"
+                  stroke="black" y1="9.75"/>
+            <text class="uwText knime-label" x="89.59027777777777" y="19.75">
+                88.44
+            </text>
+            <line x1="42.295138888888886" x2="42.295138888888886" y1="407.25"
+                  y2="484.125" stroke-dasharray="5,5" class="ulL1"
+                  stroke="black"/>
+            <line y2="484.125" x1="0" class="ulL2" x2="84.59027777777777"
+                  stroke="black" y1="484.125"/>
+            <text class="ulText knime-label" x="89.59027777777777" y="481.125">
+                12.54
+            </text>
+        </g>
+    </g>
+    <text x="20" y="30" id="title" class="knime-title">
+        Salaire horraire agregé par sexe
+    </text>
+    <text x="20" y="46" id="subtitle" class="knime-subtitle">
+        Salaire horraire agregé par sexe
+    </text>
+</svg>
